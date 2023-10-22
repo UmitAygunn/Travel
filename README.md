@@ -3,6 +3,9 @@
 This project is a holiday website created using HTML and CSS. It showcases a wide range of vacation packages for travelers.
 
 # Demo
+
+![Travel](https://github.com/UmitAygunn/Travel/assets/140657845/2fc80eb8-cf37-45df-bb20-37c7ed68cdab)
+
 Live Demo - Explore the live demo of the holiday website to view the vacation packages and experience the design.
 1) https://65338b18f393d24b8287703e--benevolent-sunshine-cf7d93.netlify.app/
 
